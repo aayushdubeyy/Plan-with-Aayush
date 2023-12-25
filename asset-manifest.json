@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Plan-with-Aayush/static/css/main.669b25cb.css",
+    "main.js": "/Plan-with-Aayush/static/js/main.68784661.js",
+    "index.html": "/Plan-with-Aayush/index.html",
+    "main.669b25cb.css.map": "/Plan-with-Aayush/static/css/main.669b25cb.css.map",
+    "main.68784661.js.map": "/Plan-with-Aayush/static/js/main.68784661.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.669b25cb.css",
+    "static/js/main.68784661.js"
+  ]
+}
